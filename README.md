@@ -58,7 +58,7 @@ To set up the project on your local machine, follow these steps:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/Google-Gemini.git
+    git clone https://github.com/NoobCoderraj/Google-Gemini.git
     ```
 
 2. **Navigate to the project directory**:
